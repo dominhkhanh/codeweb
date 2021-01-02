@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-nav {
+    border-bottom: solid rgba(0, 0, 0, 0.356) 1px;
+}
+
+.nav-link-left .nav-link {
+    float: left;
+    color: black;
+    padding: 10px 10px;
+    margin: 10px;
+}
+
+.nav-link-left :hover {
+    border-bottom: solid rgb(43, 250, 188) 1px;
+}
+
+.nav-link-right .btn {
+    float: right;
+}
+
+.Airbnb {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin-top: 100px;
+    position: relative;
+    left: 0%;
+    height: 300px;
+    padding: 50px 50px;
+}
+
+.Airbnb-1 {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin-top: 0px;
+    position: relative;
+    left: 0%;
+    height: 300px;
+}
+
+.Airbnb-1 h1 {
+    font-size: 60px;
+    margin-top: -150px;
+    margin-left: 35px;
+}
+
+.Airbnb-2 {
+    padding: 25px;
+    position: relative;
+    left: 5%;
+    top: -150px;
+}
+
+.Airbnb-2 h3 {
+    line-height: 2;
+}
+
+.Airbnb-2 ._9ofhsl {
+    width: 50px;
+}
+
+.Airbnb-2 p {
+    line-height: 2;
+}
+
+.Airbnb h2 {
+    font-size: 25px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.Airbnb h1 {
+    font-size: 60px;
+    line-height: 1.5;
+    font-weight: 900 !important;
+    color: #333333 !important;
+}
+
+.Airbnb h6 {
+    font-size: 22px;
+    line-height: 3;
+}
+
+.img {
+    position: relative;
+    height: 500px;
+    margin-top: 20%;
+    padding: 50px;
+}
+
+.img .img-famaly {
+    height: 400px;
+    position: absolute;
+    left: 7%;
+}
+
+.table {
+    top: -120px;
+    position: relative;
+    left: 5%;
+    padding: 30px;
+}
+
+.Airbnb-3 {
+    position: relative;
+    left: 5%;
+}
